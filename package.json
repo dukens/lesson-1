@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^8.1.1",
     "fsevents": "^2.2.1",
+    "grpc": "^1.24.4",
     "node-gyp": "^7.1.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
